@@ -92,6 +92,12 @@ plt.show()
 
 
 ## Output:
+<img width="806" height="569" alt="image" src="https://github.com/user-attachments/assets/f8c5fb16-f08f-47f7-8037-40a3e2bf509f" />
+
+<img width="716" height="105" alt="image" src="https://github.com/user-attachments/assets/b35db9c6-02a0-4012-86c6-97297c4a80ff" />
+
+<img width="248" height="136" alt="image" src="https://github.com/user-attachments/assets/f544a67f-4193-41bd-87de-7c8284351f44" />
+
 <img width="868" height="468" alt="download" src="https://github.com/user-attachments/assets/45098257-3857-4395-9c83-597e25af08b3" />
 
 
