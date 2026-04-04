@@ -61,8 +61,8 @@ poly_model.fit(x_train,y_train)
 y_pred_poly=poly_model.predict(x_test)
 
 #Evaluate models
-print('Name:Balasurya S')
-print('Reg. No:25000944 ')
+print('Name:Ritesh DP')
+print('Reg. No:25015366 ')
 print("Linear Regression:")
 #mse=mean_squared_error(y_test,y_pred_linear)
 print('MSE=',mean_squared_error(y_test,y_pred_linear))
